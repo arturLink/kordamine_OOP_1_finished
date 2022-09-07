@@ -1,0 +1,3 @@
+Antosha,2004,mees,ArturINC,MoiSekretar,250000
+Grisha,2002,naine,Zavod,Rabochii,15
+Gosha,1990,mees,Kodus,Domohozaika,100000
